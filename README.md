@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 |💚 |My Socials|Links|
 |:-------------:| :------------ |:-------------|
-| 🚀| My Website      | [https://choozn.dev/](https://aneeshsharma0671.github.io/portfolio/) |
+| 🚀| My Website      | [aneeshsharma0671.github.io](https://aneeshsharma0671.github.io/portfolio/) |
 | ❓| My Linkedin      | [@AneeshSharma]([https://stackoverflow.com/users/14097941/choozn](https://www.linkedin.com/in/aneeshsharma0671/))      |
 <!-- | 📞|My Discord |@choozn#6498|
 | 🐦︎|My Twitter |[@choozn_dev](https://twitter.com/choozn_dev)| -->
